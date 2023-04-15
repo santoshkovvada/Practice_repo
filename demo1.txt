@@ -1,4 +1,0 @@
-
-
-echo "hello computer and hello ai "
-echo"This is next gen "
